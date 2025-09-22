@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace TurtleGraphics
+namespace Brugerinddragelse_Turtle
 {
     public partial class Form1 : Form
     {
